@@ -1,0 +1,8 @@
+{
+  "name": "com.google.external-dependency-manager",
+  "displayName": "External Dependency Manager",
+  "version": "1.2.178",
+  "unity": "2019.1",
+  "description": "External Dependency Manager for Unity by Google.",
+  "dependencies": {}
+}
